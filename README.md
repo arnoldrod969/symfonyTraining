@@ -6,6 +6,8 @@ Programme d'imprégnation pour le framework Symfony
 
 - Installation de Symfony via "Composer create-project" et "Symfony CLI"
 - Structure MVC, configuration, premiers contrôleurs, routes
+- Moteur de templates Twig, rendu de vues, passage de données.
+- ORM, entités, migrations, requêtes simples
 - Support multilingue
 - Réponses intelligentes basées sur le contexte
 

@@ -5,5 +5,7 @@ controllers:
     type: attribute
 
 test:
-    path: /test
+    path: /test/{nom?}
     controller: App\Controller\TestController::index
+    defaults:
+        nom: 'don man'
